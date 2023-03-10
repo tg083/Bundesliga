@@ -1,0 +1,51 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+fcu1,Frederik Roennow,1,fcu,hors,NA,B
+fcu2,Morten Thorsby,1,fcu,stab,NA,C
+fcu3,Paul Jaeckel,1,fcu,wobj,NA,C
+fcu4,Diogo Leite,1,fcu,prt,NA,D
+fcu5,Danilho Doekhi,1,fcu,aja,NA,B
+fcu7,Levin Oeztunali,1,fcu,hsv,NA,C
+fcu8,Rani Khedira,1,fcu,vfbj,NA,D
+fcu11,Sven Michel,1,fcu,nied,NA,A
+fcu13,Andras Schaefer,1,fcu,mtk,NA,B
+fcu14,Paul Seguin,1,fcu,wobj,NA,A
+fcu16,Tim Maciejewski,1,fcu,fcuj,NA,A
+fcu17,Kevin Behrens,1,fcu,svwj,NA,A
+fcu19,Jannik Haberer,1,fcu,uha,NA,D
+fcu23,Niko Giesselmann,1,fcu,han,NA,B
+fcu25,Timo Baumgartl,1,fcu,vfbj,NA,E
+fcu26,Jerome Rousillon,1,fcu,soc,NA,F
+fcu27,Sheraldo Becker,1,fcu,aja,NA,E
+fcu28,Christopher Trimmel,1,fcu,hori,NA,A
+fcu30,Kevin Moehwald,1,fcu,rwer,NA,B
+fcu31,Robin Knoche,1,fcu,wobj,NA,E
+fcu32,Milos Pantovic,1,fcu,fcbj,NA,A
+fcu37,Lennart Grill,1,fcu,fck,NA,A
+fcu40,Jamie Leweling,1,fcu,fur,NA,B
+fcu45,Jordan Siebatcheu,1,fcu,reim,NA,D
+fcu18,Josip Juranovic,1,fcu,nkd,NA,D
+fcu20,Aissa Laidouni,1,fcu,asco,NA,B
+hors,AC Horsens,2,NA,NA,DEN,NA
+stab,Stabaek IF,2,NA,NA,DEN,NA
+wobj,VfL Wolfsburg Jugend,2,NA,NA,GER,NA
+prt,FC Porto,2,NA,NA,POR,NA
+aja,Ajax Amsterdam,2,NA,NA,NED,NA
+hsv,Hamburger SV,2,NA,NA,GER,NA
+vfbj,VfB Stuttgart Jugend,2,NA,NA,GER,NA
+nied,SuS Niederschelden,2,NA,NA,GER,NA
+mtk,MTK Budapest,2,NA,NA,HUN,NA
+fcuj,Union Berlin Jugend,2,NA,NA,GER,NA
+svwj,SV Werder Bremen Jugend,2,NA,NA,GER,NA
+uha,SpVgg Unterhaching,2,NA,NA,GER,NA
+han,Hannover 96,2,NA,NA,GER,NA
+soc,FC Sochaux,2,NA,NA,FRA,NA
+hori,ASK Horitschon,2,NA,NA,AUT,NA
+rwer,Rot Weiss Erfurt,2,NA,NA,GER,NA
+fcbj,FC Bayern Jugend,2,NA,NA,GER,NA
+fck,1. FC Kaiserslautern,2,NA,NA,GER,NA
+fur,SpVgg Greuther Fuerth,2,NA,NA,GER,NA
+reim,Stade Reims,2,NA,NA,FRA,NA
+nkd,NK Dubrava,2,NA,NA,CRO,NA
+asco,Angers SCO,2,NA,NA,FRA,NA
+fcu,1. FC Union Berlin,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
