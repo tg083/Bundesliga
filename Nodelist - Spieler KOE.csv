@@ -1,0 +1,49 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+koe1,Timo Horn,1,koe,koej,NA,E
+koe2,Benno Schmitz,1,koe,fcbj,NA,B
+koe3,Kristian Pedersen,1,koe,beif,NA,B
+koe4,Timo Huebers,1,koe,han,NA,C
+koe5,Nikola Soldo,1,koe,zapr,NA,A
+koe6,Eric Martel,1,koe,rblj,NA,B
+koe7,Dejan Ljubicic,1,koe,rwie,NA,D
+koe8,Denis Huseinbasic,1,koe,off,NA,A
+koe9,Sebastian Andersson,1,koe,ange,NA,C
+koe11,Florian Kainz,1,koe,graz,NA,B
+koe13,Marc Uth,1,koe,koej,NA,G
+koe14,Jonas Hector,1,koe,auer,NA,F
+koe15,Luca Kilian,1,koe,bvbj,NA,B
+koe17,Kingsley Schindler,1,koe,han,NA,B
+koe19,Dimitrios Limnios,1,koe,atro,NA,B
+koe20,Marvin Schwaebe,1,koe,sgej,NA,B
+koe21,Steffen Tigges,1,koe,osna,NA,B
+koe23,Sargis Adamyan,1,koe,hro,NA,B
+koe24,Julian Chabot,1,koe,rblj,NA,A
+koe25,Tim Lemperle,1,koe,koej,NA,A
+koe27,Davie Selke,1,koe,svwj,NA,F
+koe28,Ellyes Skhiri,1,koe,mont,NA,E
+koe29,Jan Thielmann,1,koe,koej,NA,D
+koe33,Florian Dietz,1,koe,czj,NA,A
+koe37,Linton Mai,1,koe,han,NA,D
+koe47,Mathias Olesen,1,koe,koej,NA,A
+koe48,Justin Diehl,1,koe,koej,NA,A
+koe,1. FC Koeln,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
+koej,1. FC Koeln Jugend,2,NA,NA,GER,NA
+fcbj,FC Bayern Jugend,2,NA,NA,GER,NA
+beif,Benlose IF,2,NA,NA,DEN,NA
+han,Hannover 96,2,NA,NA,GER,NA
+zapr,Inter Zapresic,2,NA,NA,CRO,NA
+rblj,RB Leipzig Jugend,2,NA,NA,GER,NA
+rwie,Rapid Wien,2,NA,NA,AUT,NA
+off,Kickers Offenbach,2,NA,NA,GER,NA
+ange,Angelholm,2,NA,NA,SWE,NA
+graz,Sturm Graz,2,NA,NA,AUT,NA
+auer,SV Auersmacher,2,NA,NA,GER,NA
+bvbj,Borussia Dortmund Jugend,2,NA,NA,GER,NA
+atro,Atromitos Athen,2,NA,NA,GRE,NA
+sgej,Eintracht Frankfurt Jugend,2,NA,NA,GER,NA
+osna,VfL Osnabrueck,2,NA,NA,GER,NA
+hro,Hansa Rostock,2,NA,NA,GER,NA
+svwj,Werder Bremen Jugend,2,NA,NA,GER,NA
+mont,Montpellier HSC,2,NA,NA,FRA,NA
+czj,FC Carl Zeiss Jena,2,NA,NA,GER,NA
