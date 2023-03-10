@@ -1,0 +1,41 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+scf1,Benjamin Uphoff,1,scf,burg,NA,A
+scf3,Philipp Lienhart,1,scf,rma,NA,G
+scf5,Manuel Gulde,1,scf,tsgj,NA,B
+scf7,Jonathan Schmid,1,scf,scfj,NA,C
+scf8,Maximilian Eggestein,1,scf,svwj,NA,H
+scf9,Lucas Hoeler,1,scf,blum,NA,C
+scf11,Daniel Kofi Kyereh,1,scf,have,NA,D
+scf14,Yannik Keitel,1,scf,scfj,NA,B
+scf17,Lukas Kuebler,1,scf,bonn,NA,B
+scf18,Nils Petersen,1,scf,czj,NA,E
+scf22,Roland Sallai,1,scf,pus,NA,F
+scf23,Robert Wagner,1,scf,scfj,NA,A
+scf25,Kiliann Sildillia,1,scf,met,NA,D
+scf26,Mark Flekken,1,scf,aaa,NA,C
+scf27,Nicolas Hoefler,1,scf,scfj,NA,B
+scf28,Matthias Ginter,1,scf,scfj,NA,I
+scf29,Woo Yeong Jeong,1,scf,fcbj,NA,C
+scf30,Christian Guenter,1,scf,scfj,NA,E
+scf32,Vincenzo Grifo,1,scf,ksc,NA,E
+scf33,Noah Weisshaupt,1,scf,scfj,NA,B
+scf38,Michael Gregoritsch,1,scf,svka,NA,F
+scf42,Ritsu Doan,1,scf,gamb,NA,F
+scf,SC Freiburg,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
+burg,Wacker Burghausen,2,NA,NA,GER,NA
+rma,Real Madrid,2,NA,NA,ESP,NA
+tsgj,TSG Hoffenheim Jugend,2,NA,NA,GER,NA
+scfj,SC Freiburg Jugend,2,NA,NA,GER,NA
+svwj,SV Werder Bremen Jugend ,2,NA,NA,GER,NA
+blum,Blumentaler SV,2,NA,NA,GER,NA
+have,TSV Havelse,2,NA,NA,GER,NA
+bonn,Bonner SC,2,NA,NA,GER,NA
+czj,FC Carl Zeiss Jena,2,NA,NA,GER,NA
+pus,Puskas AFC,2,NA,NA,HUN,NA
+met,FC Metz,2,NA,NA,FRA,NA
+aaa,Alemannia Aachen,2,NA,NA,GER,NA
+fcbj,FC Bayern Jugend,2,NA,NA,GER,NA
+ksc,Karlsruher SC,2,NA,NA,GER,NA
+svka,SV Kapfenberg,2,NA,NA,AUT,NA
+gamb,Gamba Osaka,2,NA,NA,JAP,NA
