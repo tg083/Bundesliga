@@ -1,0 +1,52 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW,Einsatz
+sge1,Kevin Trapp,1,sge,fck,NA,E,1
+sge2,Evan N Dicka,1,sge,aux,NA,I,1
+sge5,Hrvoje Smolcic,1,sge,rij,NA,B,1
+sge6,Kristijan Jakic,1,sge,spli,NA,D,1
+sge8,Djibril Sow,1,sge,fcz,NA,G,1
+sge9,Randal Kolo Muani,1,sge,nan,NA,I,1
+sge11,Faride Alidou,1,sge,hsv,NA,A,1
+sge15,Daichi Kamada,1,sge,hhs,NA,H,1
+sge17,Sebastian Rode,1,sge,off,NA,D,1
+sge18,Almamy Toure,1,sge,asm,NA,D,1
+sge19,Rafael Borre,1,sge,cal,NA,F,1
+sge20,Makoto Hasebe,1,sge,fhs,NA,B,1
+sge21,Lucas Alario,1,sge,cac,NA,F,1
+sge22,Timothy Chandler,1,sge,sgej,NA,B,1
+sge24,Aurelio Buta,1,sge,ben,NA,C,1
+sge25,Christopher Lenz,1,sge,bmgj,NA,B,1
+sge26,Junior Dina Ebimbe,1,sge,psg,NA,C,1
+sge27,Mario Goetze,1,sge,bvbj,NA,K,1
+sge28,Marcel Wenig,1,sge,fcbj,NA,A,1
+sge29,Jesper Lindstrom,1,sge,bro,NA,H,1
+sge31,Jens Grahl,1,sge,stk,NA,A,1
+sge32,Philipp Max,1,sge,gelj,NA,F,1
+sge35,Tuta,1,sge,saop,NA,E,1
+sge36,Ansgar Knauff,1,sge,bvbj,NA,D,1
+sge40,Diant Ramaj,1,sge,heid,NA,A,1
+bl,Bundesliga,3,NA,NA,NA,NA,NA
+sge,Eintracht Frankfurt,2,NA,NA,GER,NA,NA
+fck,FC Kaiserslautern,2,NA,NA,GER,NA,NA
+aux,AJ Auxerre,2,NA,NA,FRA,NA,NA
+rij,HNK Rijeka,2,NA,NA,CRO,NA,NA
+spli,RNK Split,2,NA,NA,CRO,NA,NA
+fcz,FC Zuerich,2,NA,NA,SUI,NA,NA
+nan,FC Nantes,2,NA,NA,FRA,NA,NA
+hsv,Hamburger SV,2,NA,NA,GER,NA,NA
+hhs,Higashiyama Highschool,2,NA,NA,JAP,NA,NA
+off,Kickers Offenbach,2,NA,NA,GER,NA,NA
+asm,AS Monaco,2,NA,NA,FRA,NA,NA
+cal,Deportivo Cali,2,NA,NA,ESP,NA,NA
+fhs,Fujieda Highschool,2,NA,NA,JAP,NA,NA
+cac,CA Colon,2,NA,NA,NA,NA,NA
+sgej,Frankfurt Jugend,2,NA,NA,NA,NA,NA
+ben,Benfica Lissabon,2,NA,NA,NA,NA,NA
+bmgj,Gladbach Jugend,2,NA,NA,NA,NA,NA
+psg,Paris Saint-Germain,2,NA,NA,NA,NA,NA
+bvbj,BVB Jugend,2,NA,NA,NA,NA,NA
+fcbj,Bayern Jugend,2,NA,NA,NA,NA,NA
+bro,Broendby IF,2,NA,NA,NA,NA,NA
+stk,Stuttgarter Kickers,2,NA,NA,NA,NA,NA
+gelj,Schalke Jugend,2,NA,NA,NA,NA,NA
+saop,Sao Paolo,2,NA,NA,NA,NA,NA
+heid,Heidenheim,2,NA,NA,NA,NA,NA
